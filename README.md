@@ -1,6 +1,8 @@
 # Film Finder
 
->Using the IMDB API, I have created a program that returns the first movie (title, date and image) that matches our search.
+>Using the IMDB API, this Tkinter App returns the first movie (title, date and image) that matches the search.
+
+![](https://trello-attachments.s3.amazonaws.com/60e5cf4030ae485cb0cb667b/60e5cf51c5162221fa20cdd7/c546e3bae216ef1697f7d2b041b63600/Screenshot_2021-07-07_at_17.00.04.png)
 
 ## Installation
 1. Install requirements. 
@@ -19,4 +21,5 @@ IMDB API needs an apikey for queries.
 ```
 python main.py
 ```
-Please, remember that you need an internet connection
+Note: Internet connection is needed. 
+
